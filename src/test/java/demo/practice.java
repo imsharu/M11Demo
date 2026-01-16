@@ -8,6 +8,7 @@ public class practice {
 	public void m1()
 	{
 		System.out.println("Hello github");
+		System.out.println("Hello ");
 	}
 
 }
